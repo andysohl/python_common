@@ -1,4 +1,4 @@
-# Analytics support for Tricor
+# Analytics support
 
 A Python verison of the analytics support library.
 
